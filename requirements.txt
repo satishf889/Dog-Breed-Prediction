@@ -1,0 +1,10 @@
+numpy
+pandas
+tensorflow>=1.15.2
+sklearn
+keras
+tensorflow-gpu>=1.15.2
+pillow>=6.2.2
+opencv-python
+matplotlib
+tqdm
